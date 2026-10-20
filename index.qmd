@@ -1,6 +1,5 @@
 ---
-title: "From patterns to processes"
-subtitle: "Empirically quantifying resilience and nonlinear changes in ecological systems"
+title: "Empirically quantifying resilience and nonlinear changes in ecological systems"
 ---
 
 ::: {.callout-note}

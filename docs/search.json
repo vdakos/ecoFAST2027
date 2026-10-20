@@ -2,42 +2,42 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "From patterns to processes",
+    "title": "Empirically quantifying resilience and nonlinear changes in ecological systems",
     "section": "",
     "text": "Note\n\n\n\nThis page is in progress. The programme is tentative, and details on the venue and registration will be added.\n22–23 March 2027 · Montpellier, France · Free of charge"
   },
   {
     "objectID": "index.html#about",
     "href": "index.html#about",
-    "title": "From patterns to processes",
+    "title": "Empirically quantifying resilience and nonlinear changes in ecological systems",
     "section": "About",
     "text": "About\nEcological systems can respond to stress gradually, nonlinearly or through abrupt shifts between states. Many methods now exist to detect such changes, to measure resilience and to anticipate transitions, but it is often unclear which of them can be applied to the data that ecologists actually have. The meeting asks whether resilience can be quantified and abrupt shifts anticipated from empirical data, and what current methods can and cannot deliver.\nFour questions frame the meeting:\n\nDetection. How common are abrupt shifts in ecological time series, and why are they missed?\nMeasurement. Which resilience metrics can be estimated from data?\nMechanism. Can interactions and causality explain why a system shifts?\nAnticipation. Do early-warning signals and machine learning work on real data?"
   },
   {
     "objectID": "index.html#tentative-programme",
     "href": "index.html#tentative-programme",
-    "title": "From patterns to processes",
+    "title": "Empirically quantifying resilience and nonlinear changes in ecological systems",
     "section": "Tentative programme",
     "text": "Tentative programme\n\nMonday 22 March: ecoFAST tutorial\nA one-day practical course on ecoFAST, an R package for detecting abrupt shifts and quantifying resilience in ecological data. The morning introduces the principles of the methods and the afternoon is devoted to hands-on practice. The tutorial requires registration.\n\n\nTuesday 23 March: colloquium\nA day of invited talks, open to all. Each method talk is followed by a case study that applies or tests such a method. The talks are grouped in two sessions:\n\nDetecting shifts and measuring resilience\nMechanisms and anticipation\n\nThe day ends with a panel discussion."
   },
   {
     "objectID": "index.html#speakers",
     "href": "index.html#speakers",
-    "title": "From patterns to processes",
+    "title": "Empirically quantifying resilience and nonlinear changes in ecological systems",
     "section": "Speakers",
     "text": "Speakers\nConfirmed so far, in alphabetical order:\n\nMiguel Berdugo, Complutense University of Madrid, Spain\nAlejandro Viloria Cano, MARBEC, Ifremer, France\nStephan Munch, NOAA Southwest Fisheries Science Center and University of California Santa Cruz, USA\nMathieu Pélissié, University of Padova, Italy\nBenoît Pichon, University of Stuttgart, Germany\nFrancesco Pomati, Eawag, Swiss Federal Institute of Aquatic Science and Technology, Switzerland\nJuan Rocha, Stockholm Resilience Centre, Stockholm University, Sweden\nSerguei Saavedra, Massachusetts Institute of Technology, USA\nMartina Sánchez-Pinillos, National Museum of Natural Sciences (MNCN-CSIC), Madrid, Spain\nCamilla Sguotti, University of Padova, Italy\n\nFurther speakers will be announced."
   },
   {
     "objectID": "index.html#practical-information",
     "href": "index.html#practical-information",
-    "title": "From patterns to processes",
+    "title": "Empirically quantifying resilience and nonlinear changes in ecological systems",
     "section": "Practical information",
     "text": "Practical information\n\nDates: 22–23 March 2027\nPlace: Montpellier, France. The venue will be announced.\nFee: participation is free of charge.\nRegistration: details will follow."
   },
   {
     "objectID": "index.html#contact",
     "href": "index.html#contact",
-    "title": "From patterns to processes",
+    "title": "Empirically quantifying resilience and nonlinear changes in ecological systems",
     "section": "Contact",
     "text": "Contact\nVasilis Dakos, Institut des Sciences de l’Évolution de Montpellier (ISEM), CNRS, University of Montpellier: vasilis.dakos@umontpellier.fr"
   }
