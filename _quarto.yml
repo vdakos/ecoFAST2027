@@ -1,0 +1,16 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "ecoFAST 2027"
+  site-url: "https://vdakos.github.io/ecoFAST2027/"
+  page-footer:
+    center: "ecoFAST 2027 · Montpellier · Organised by Vasilis Dakos (ISEM, CNRS, University of Montpellier)"
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-title: "On this page"
+    page-layout: article

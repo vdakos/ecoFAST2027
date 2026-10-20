@@ -1,0 +1,73 @@
+---
+title: "From patterns to processes"
+subtitle: "Empirically quantifying resilience and nonlinear changes in ecological systems"
+---
+
+::: {.callout-note}
+This page is in progress. The programme is tentative, and details on the venue and registration
+will be added.
+:::
+
+**22–23 March 2027 · Montpellier, France · Free of charge**
+
+## About
+
+Ecological systems can respond to stress gradually, nonlinearly or through abrupt shifts between
+states. Many methods now exist to detect such changes, to measure resilience and to anticipate
+transitions, but it is often unclear which of them can be applied to the data that ecologists
+actually have. The meeting asks whether resilience can be quantified and abrupt shifts
+anticipated from empirical data, and what current methods can and cannot deliver.
+
+Four questions frame the meeting:
+
+1. **Detection.** How common are abrupt shifts in ecological time series, and why are they missed?
+2. **Measurement.** Which resilience metrics can be estimated from data?
+3. **Mechanism.** Can interactions and causality explain why a system shifts?
+4. **Anticipation.** Do early-warning signals and machine learning work on real data?
+
+## Tentative programme
+
+### Monday 22 March: ecoFAST tutorial
+
+A one-day practical course on **ecoFAST**, an R package for detecting abrupt shifts and
+quantifying resilience in ecological data. The morning introduces the principles of the methods
+and the afternoon is devoted to hands-on practice. The tutorial requires registration.
+
+### Tuesday 23 March: colloquium
+
+A day of invited talks, open to all. Each method talk is followed by a case study that applies or
+tests such a method. The talks are grouped in two sessions:
+
+- Detecting shifts and measuring resilience
+- Mechanisms and anticipation
+
+The day ends with a panel discussion.
+
+## Speakers
+
+Confirmed so far, in alphabetical order:
+
+- Miguel Berdugo
+- Alejandro Viloria Cano
+- Stephan Munch
+- Mathieu Pélissié
+- Benoît Pichon
+- Francesco Pomati
+- Juan Rocha
+- Serguei Saavedra
+- Martina Sánchez-Pinillos
+- Camilla Sguotti
+
+Further speakers will be announced.
+
+## Practical information
+
+- **Dates:** 22–23 March 2027
+- **Place:** Montpellier, France. The venue will be announced.
+- **Fee:** participation is free of charge.
+- **Registration:** details will follow.
+
+## Contact
+
+Vasilis Dakos, Institut des Sciences de l'Évolution de Montpellier (ISEM), CNRS, University of
+Montpellier: [vasilis.dakos@umontpellier.fr](mailto:vasilis.dakos@umontpellier.fr)
