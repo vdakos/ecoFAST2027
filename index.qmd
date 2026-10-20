@@ -3,6 +3,8 @@ title: "Empirically quantifying resilience and nonlinear changes in ecological s
 subtitle: "ecoFAST 2027"
 ---
 
+![](images/banner.jpg){fig-alt="Two wind-shaped trees on a cliff above the sea"}
+
 ::: {.callout-note}
 This page is in progress. The programme is tentative, and details on the venue and registration
 will be added.
