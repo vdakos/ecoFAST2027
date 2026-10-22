@@ -11,6 +11,11 @@
   margin: 0.5rem 0 1rem 0;
 }
 
-/* partner logos in the footer */
-.footer-logos { display: flex; gap: 1.5rem; align-items: center; justify-content: center; flex-wrap: wrap; }
-.footer-logos img { height: 48px; width: auto; }
+/* partner logos at the bottom of the left sidebar (Quarto wraps them in a <p>) */
+.sidebar-logos p { display: grid; grid-template-columns: 1fr 1fr; gap: 1.2rem 0.8rem;
+  align-items: center; justify-items: center; margin: 2rem 0 1rem 0; }
+.sidebar-logos img { max-width: 100%; height: auto; }
+.sidebar-logos img[alt="ISEM"] { width: 190px; }
+.sidebar-logos img[alt="University of Montpellier"], .sidebar-logos img[alt="CNRS"] { width: 75px; }
+.sidebar-logos img[alt="BioDICée Lab"] { width: 130px; }
+.sidebar-logos a:first-child, .sidebar-logos img[alt="BioDICée Lab"] { grid-column: 1 / -1; }
