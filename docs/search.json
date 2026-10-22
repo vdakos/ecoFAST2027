@@ -35,7 +35,7 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Empirical quantification of resilience and identification of nonlinear changes",
+    "title": "Empirical quantification of resilience and identification of nonlinear changes in ecological systems",
     "section": "",
     "text": "22–23 March 2027 · Montpellier, France · Free of charge",
     "crumbs": [
@@ -45,9 +45,9 @@
   {
     "objectID": "index.html#about",
     "href": "index.html#about",
-    "title": "Empirical quantification of resilience and identification of nonlinear changes",
+    "title": "Empirical quantification of resilience and identification of nonlinear changes in ecological systems",
     "section": "About",
-    "text": "About\nEcological systems can respond to stress gradually, nonlinearly or through abrupt shifts between states. Many methods now exist to detect such changes, to measure resilience and to anticipate transitions, but it is often unclear which of them can be applied to the data that ecologists actually have. ecoFAST2027 is a tutorial and colloquium structured around the question of whether resilience can be quantified and abrupt shifts anticipated from empirical data, and what current methods can and cannot deliver.\nFour questions frame the meeting:\n\nDetection. How common are abrupt shifts in ecological time series, and why are they missed?\nMeasurement. Which resilience metrics can be estimated from data?\nMechanism. Can interactions and causality explain why a system shifts?\nAnticipation. Do early-warning signals and machine learning work on real data?",
+    "text": "About\nEcological systems can respond to stress gradually, nonlinearly or through abrupt shifts between states. Many methods now exist to detect such changes, to measure resilience and to anticipate transitions, but it is often unclear which of them can be applied to the data that ecologists actually have.\necoFAST2027 is a tutorial and colloquium structured around the question of whether resilience can be quantified and abrupt shifts anticipated from empirical data, and what current methods can and cannot deliver.\nFour questions frame the meeting:\n\nDetection. How common are abrupt shifts in ecological time series, and why are they missed?\nMeasurement. Which resilience metrics can be estimated from data?\nMechanism. Can interactions and causality explain why a system shifts?\nAnticipation. Do early-warning signals and machine learning work on real data?",
     "crumbs": [
       "Welcome"
     ]
@@ -55,7 +55,7 @@
   {
     "objectID": "index.html#programme",
     "href": "index.html#programme",
-    "title": "Empirical quantification of resilience and identification of nonlinear changes",
+    "title": "Empirical quantification of resilience and identification of nonlinear changes in ecological systems",
     "section": "Programme",
     "text": "Programme\n\nMonday 22 March: ecoFAST tutorial, a practical course on the ecoFAST R package.\nTuesday 23 March: colloquium of invited talks, open to all.",
     "crumbs": [
@@ -65,7 +65,7 @@
   {
     "objectID": "index.html#contact",
     "href": "index.html#contact",
-    "title": "Empirical quantification of resilience and identification of nonlinear changes",
+    "title": "Empirical quantification of resilience and identification of nonlinear changes in ecological systems",
     "section": "Contact",
     "text": "Contact\nVasilis Dakos, Institut des Sciences de l’Évolution de Montpellier (ISEM), CNRS, University of Montpellier: vasilis.dakos@umontpellier.fr",
     "crumbs": [
@@ -75,7 +75,7 @@
   {
     "objectID": "index.html#see-also",
     "href": "index.html#see-also",
-    "title": "Empirical quantification of resilience and identification of nonlinear changes",
+    "title": "Empirical quantification of resilience and identification of nonlinear changes in ecological systems",
     "section": "See also",
     "text": "See also\n\nVasilis Dakos’s website\nBioDICée team",
     "crumbs": [
