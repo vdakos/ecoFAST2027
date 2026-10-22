@@ -23,8 +23,14 @@ website:
           - registration.qmd
           - practical.qmd
   page-footer:
-    left: "ecoFAST2027 · Montpellier, 22–23 March 2027"
-    center: "Organised by Vasilis Dakos (ISEM, CNRS, University of Montpellier)"
+    left: "ecoFAST2027 · Montpellier, 22–23 March 2027<br>Organised by Vasilis Dakos (ISEM, CNRS, University of Montpellier)"
+    center: |
+      <div class="footer-logos">
+      <a href="https://isem-evolution.fr/en/"><img src="images/logos/isem.png" alt="ISEM"></a>
+      <a href="https://www.umontpellier.fr/en/"><img src="images/logos/um.png" alt="University of Montpellier"></a>
+      <a href="https://www.cnrs.fr/en"><img src="images/logos/cnrs.png" alt="CNRS"></a>
+      <img src="images/logos/biodicee.png" alt="BioDICée Lab">
+      </div>
     right: "Built with [Quarto](https://quarto.org/)"
     border: true
 
