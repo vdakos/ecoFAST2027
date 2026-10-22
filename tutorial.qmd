@@ -9,3 +9,9 @@ and the afternoon is devoted to hands-on practice.
 
 Places are limited, and participants are selected on the basis of a short motivation statement:
 [apply for the tutorial](https://ecofast2027-tutorial.sciencesconf.org).
+
+## Instructors
+
+- Alejandro Viloria Cano, MARBEC, Ifremer, France
+- Vasilis Dakos, ISEM, CNRS, University of Montpellier, France
+- Mathieu Pélissié, University of Padova, Italy
