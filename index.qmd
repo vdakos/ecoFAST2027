@@ -1,5 +1,5 @@
 ---
-title: "Empirically quantifying resilience and nonlinear changes in ecological systems"
+title: "Empirically quantifying resilience and identifying nonlinear changes in ecological systems"
 subtitle: "ecoFAST 2027: Tutorial and Colloquium"
 ---
 
