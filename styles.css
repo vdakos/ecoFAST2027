@@ -17,5 +17,7 @@
 .sidebar-logos img { max-width: 100%; height: auto; }
 .sidebar-logos img[alt="ISEM"] { width: 190px; }
 .sidebar-logos img[alt="University of Montpellier"], .sidebar-logos img[alt="CNRS"] { width: 75px; }
-.sidebar-logos img[alt="BioDICée Lab"] { width: 130px; }
-.sidebar-logos a:first-child, .sidebar-logos img[alt="BioDICée Lab"] { grid-column: 1 / -1; }
+.sidebar-logos img[alt="BioDICée Lab"] { width: 95px; }
+/* ANR initials logo (the version the ANR charter gives for partners); multiply hides its white background */
+.sidebar-logos img[alt="ANR"] { width: 80px; mix-blend-mode: multiply; }
+.sidebar-logos a:first-child { grid-column: 1 / -1; }
