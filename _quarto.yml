@@ -3,8 +3,8 @@ project:
   output-dir: docs
 
 website:
-  title: "DynSHIFT2027"
-  site-url: "https://dynshift.github.io/DynSHIFT2027/"
+  title: "ecoFAST2027"
+  site-url: "https://dynshift.github.io/ecoFAST2027/"
   page-navigation: true
   sidebar:
     style: "docked"
@@ -30,7 +30,7 @@ website:
           - registration.qmd
           - practical.qmd
   page-footer:
-    left: "DynSHIFT2027 · Montpellier, 22–23 March 2027"
+    left: "ecoFAST2027 · Montpellier, 22–23 March 2027"
     center: "Organised by Vasilis Dakos (ISEM, CNRS, University of Montpellier)"
     right: "Built with [Quarto](https://quarto.org/)"
     border: true

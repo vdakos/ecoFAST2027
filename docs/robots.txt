@@ -1,1 +1,1 @@
-Sitemap: https://dynshift.github.io/DynSHIFT2027/sitemap.xml
+Sitemap: https://dynshift.github.io/ecoFAST2027/sitemap.xml
