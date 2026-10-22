@@ -1,0 +1,9 @@
+---
+title: "Practical information"
+---
+
+- **Dates:** 22–23 March 2027
+- **Place:** Montpellier, France. The venue will be announced.
+- **Fee:** participation is free of charge.
+- **Registration:** see [Registration](registration.qmd).
+- **Contact:** [vasilis.dakos@umontpellier.fr](mailto:vasilis.dakos@umontpellier.fr)

@@ -1,0 +1,11 @@
+---
+title: "Tutorial"
+subtitle: "Monday 22 March 2027"
+---
+
+A one-day practical course on **ecoFAST**, an R package for detecting abrupt shifts and
+quantifying resilience in ecological data. The morning introduces the principles of the methods
+and the afternoon is devoted to hands-on practice.
+
+Places are limited, and participants are selected on the basis of a short motivation statement:
+[apply for the tutorial](https://ecofast2027-tutorial.sciencesconf.org).
