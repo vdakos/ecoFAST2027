@@ -25,7 +25,6 @@ website:
         contents:
           - tutorial.qmd
           - colloquium.qmd
-          - speakers.qmd
       - section: "Participate"
         contents:
           - registration.qmd
