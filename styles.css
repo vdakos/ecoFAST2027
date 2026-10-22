@@ -21,3 +21,7 @@
 /* ANR initials logo (the version the ANR charter gives for partners); multiply hides its white background */
 .sidebar-logos img[alt="ANR"] { width: 80px; mix-blend-mode: multiply; }
 .sidebar-logos a:first-child { grid-column: 1 / -1; }
+
+/* sidebar sections always expanded: no collapse arrows */
+.sidebar-item-toggle { display: none; }
+.sidebar-item-section > .sidebar-item-container > a[data-bs-toggle="collapse"] { pointer-events: none; }

@@ -9,13 +9,13 @@ website:
   sidebar:
     style: "docked"
     search: false
-    collapse-level: 1
+    collapse-level: 2
     footer: |
       <div class="sidebar-logos">
       <a href="https://isem-evolution.fr/en/"><img src="images/logos/isem.png" alt="ISEM"></a>
       <a href="https://www.umontpellier.fr/en/"><img src="images/logos/um.png" alt="University of Montpellier"></a>
       <a href="https://www.cnrs.fr/en"><img src="images/logos/cnrs.png" alt="CNRS"></a>
-      <img src="images/logos/biodicee.png" alt="BioDICée Lab">
+      <a href="https://biodicee.edu.umontpellier.fr/"><img src="images/logos/biodicee.png" alt="BioDICée Lab"></a>
       <a href="https://anr.fr/en/"><img src="images/logos/anr.jpg" alt="ANR"></a>
       </div>
     contents:
