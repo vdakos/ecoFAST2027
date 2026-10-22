@@ -3,12 +3,23 @@ title: "Colloquium"
 subtitle: "Tuesday 23 March 2027"
 ---
 
+::: {.callout-note}
+Detailed programme to follow.
+:::
+
 A day of invited talks, open to all. Each method talk is followed by a case study that applies or
 tests such a method. The talks are grouped in two sessions:
 
 - Detecting shifts and measuring resilience
 - Mechanisms and anticipation
 
-The day ends with a panel discussion. See the [speakers](speakers.qmd).
+The day ends with a panel discussion.
 
 [Register for the colloquium](https://ecofast2027.sciencesconf.org).
+
+## Speakers
+
+Miguel Berdugo, Alejandro Viloria Cano, Stephan Munch, Mathieu Pélissié, Benoît Pichon,
+Francesco Pomati, Juan Rocha, Serguei Saavedra, Martina Sánchez-Pinillos, Camilla Sguotti
+
+Further speakers will be announced.

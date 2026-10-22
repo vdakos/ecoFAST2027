@@ -98,7 +98,7 @@
     "href": "tutorial.html",
     "title": "Tutorial",
     "section": "",
-    "text": "A one-day practical course on ecoFAST, an R package for detecting abrupt shifts and quantifying resilience in ecological data. The morning introduces the principles of the methods and the afternoon is devoted to hands-on practice.\nPlaces are limited, and participants are selected on the basis of a short motivation statement: apply for the tutorial.",
+    "text": "Note\n\n\n\nDetailed programme to follow.\nA one-day practical course on ecoFAST, an R package for detecting abrupt shifts and quantifying resilience in ecological data. The morning introduces the principles of the methods and the afternoon is devoted to hands-on practice.\nPlaces are limited, and participants are selected on the basis of a short motivation statement: apply for the tutorial.",
     "crumbs": [
       "Programme",
       "Tutorial"
@@ -131,7 +131,18 @@
     "href": "colloquium.html",
     "title": "Colloquium",
     "section": "",
-    "text": "A day of invited talks, open to all. Each method talk is followed by a case study that applies or tests such a method. The talks are grouped in two sessions:\n\nDetecting shifts and measuring resilience\nMechanisms and anticipation\n\nThe day ends with a panel discussion. See the speakers.\nRegister for the colloquium.",
+    "text": "Note\n\n\n\nDetailed programme to follow.\nA day of invited talks, open to all. Each method talk is followed by a case study that applies or tests such a method. The talks are grouped in two sessions:\nThe day ends with a panel discussion.\nRegister for the colloquium.",
+    "crumbs": [
+      "Programme",
+      "Colloquium"
+    ]
+  },
+  {
+    "objectID": "colloquium.html#speakers",
+    "href": "colloquium.html#speakers",
+    "title": "Colloquium",
+    "section": "Speakers",
+    "text": "Speakers\nMiguel Berdugo, Alejandro Viloria Cano, Stephan Munch, Mathieu Pélissié, Benoît Pichon, Francesco Pomati, Juan Rocha, Serguei Saavedra, Martina Sánchez-Pinillos, Camilla Sguotti\nFurther speakers will be announced.",
     "crumbs": [
       "Programme",
       "Colloquium"
