@@ -12,7 +12,7 @@ quantifying resilience in ecological data. The morning introduces the principles
 and the afternoon is devoted to hands-on practice.
 
 Places are limited, and participants are selected on the basis of a short motivation statement:
-[apply for the tutorial](https://ecofast2027-tutorial.sciencesconf.org).
+[apply for the tutorial](https://dynshift2027-tutorial.sciencesconf.org).
 
 ## Instructors
 

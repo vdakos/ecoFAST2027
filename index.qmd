@@ -1,6 +1,6 @@
 ---
 title: "Empirical quantification of resilience and identification of nonlinear changes in ecological systems"
-subtitle: "ecoFAST2027: Tutorial and Colloquium"
+subtitle: "DynSHIFT2027: Tutorial and Colloquium"
 body-classes: welcome
 ---
 
@@ -24,7 +24,7 @@ states. Many methods now exist to detect such changes, to measure resilience and
 transitions, but it is often unclear which of them can be applied to the data that ecologists
 actually have.
 
-***ecoFAST2027*** is a tutorial and colloquium structured around the question of
+***DynSHIFT2027*** is a tutorial and colloquium structured around the question of
 whether resilience can be quantified and abrupt shifts
 anticipated from empirical data, and what current methods can and cannot deliver.
 
