@@ -1,7 +1,11 @@
 /* ecoFAST 2027 site */
 
-/* the full meeting title under the short name */
-.quarto-title .subtitle { font-size: 1.6rem; font-weight: 400; }
+/* the short name under the title */
+.quarto-title .subtitle { font-size: 1.9rem; font-weight: 400; }
+
+/* Welcome page: the short name above the full title (same fonts, order only) */
+body.welcome .quarto-title { display: flex; flex-direction: column; }
+body.welcome .quarto-title .subtitle { order: -1; margin-bottom: 0.5rem; }
 
 /* dates line above the banner */
 .meeting-dates {
