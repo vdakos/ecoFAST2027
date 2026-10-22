@@ -1,9 +1,9 @@
 ---
-title: "Empirically quantifying resilience and identifying nonlinear changes in ecological systems"
-subtitle: "ecoFAST2027: Tutorial and Colloquium"
+title: "ecoFAST2027"
+subtitle: "Empirically quantifying resilience and identifying nonlinear changes in ecological systems"
 ---
 
-[22–23 March 2027 · Montpellier, France · Free of charge]{.meeting-dates}
+[Tutorial and Colloquium · 22–23 March 2027 · Montpellier, France · Free of charge]{.meeting-dates}
 
 ![](images/banner.jpg){fig-alt="Two wind-shaped trees on a cliff above the sea"}
 
@@ -42,6 +42,8 @@ Four questions frame the meeting:
 
 Vasilis Dakos, Institut des Sciences de l'Évolution de Montpellier (ISEM), CNRS, University of
 Montpellier: [vasilis.dakos@umontpellier.fr](mailto:vasilis.dakos@umontpellier.fr)
+
+## See also
 
 - [Vasilis Dakos's website](https://www.vasilisdakos.info)
 - [BioDICée team](https://biodicee.edu.umontpellier.fr/)
