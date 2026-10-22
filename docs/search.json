@@ -57,7 +57,7 @@
     "href": "index.html#programme",
     "title": "Empirical quantification of resilience and identification of nonlinear changes in ecological systems",
     "section": "Programme",
-    "text": "Programme\n\nMonday 22 March: ecoFAST tutorial, a practical course on the ecoFAST R package.\nTuesday 23 March: colloquium of invited talks, open to all.",
+    "text": "Programme\n\nMonday 22 March: ecoFAST tutorial, a practical course on the ecoFAST (dynamical Footprint Analysis, Shapes and Trends of ecological time series) R package.\nTuesday 23 March: colloquium of invited talks, open to all.",
     "crumbs": [
       "Welcome"
     ]
@@ -97,7 +97,7 @@
     "href": "tutorial.html",
     "title": "Tutorial",
     "section": "",
-    "text": "Note\n\n\n\nDetailed programme to follow.\nA one-day practical course on ecoFAST, an R package for detecting abrupt shifts and quantifying resilience in ecological data. The morning introduces the principles of the methods and the afternoon is devoted to hands-on practice.\nPlaces are limited, and participants are selected on the basis of a short motivation statement: apply for the tutorial.",
+    "text": "Note\n\n\n\nDetailed programme to follow.\nA one-day practical course on ecoFAST (dynamical Footprint Analysis, Shapes and Trends of ecological time series), an R package for detecting abrupt shifts and quantifying resilience in ecological data. The morning introduces the principles of the methods and the afternoon is devoted to hands-on practice.\nPlaces are limited, and participants are selected on the basis of a short motivation statement: apply for the tutorial.",
     "crumbs": [
       "Programme",
       "Tutorial"

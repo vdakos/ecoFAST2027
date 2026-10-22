@@ -37,8 +37,7 @@ Four questions frame the meeting:
 
 ## Programme
 
-- **Monday 22 March:** [ecoFAST tutorial](tutorial.qmd), a practical course on the ecoFAST R
-  package.
+- **Monday 22 March:** [ecoFAST tutorial](tutorial.qmd), a practical course on the ecoFAST (dynamical Footprint Analysis, Shapes and Trends of ecological time series) R package.
 - **Tuesday 23 March:** [colloquium](colloquium.qmd) of invited talks, open to all.
 
 ## Invited speakers
