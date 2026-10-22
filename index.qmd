@@ -1,6 +1,6 @@
 ---
 title: "Empirical quantification of resilience and identification of nonlinear changes in ecological systems"
-subtitle: "DynSHIFT2027: Tutorial and Colloquium"
+subtitle: "DynSHIFT2027: ecoFAST Tutorial and Colloquium"
 body-classes: welcome
 ---
 
