@@ -1,6 +1,6 @@
 ---
 title: "Empirically quantifying resilience and identifying nonlinear changes in ecological systems"
-subtitle: "ecoFAST 2027: Tutorial and Colloquium"
+subtitle: "ecoFAST2027: Tutorial and Colloquium"
 ---
 
 [22–23 March 2027 · Montpellier, France · Free of charge]{.meeting-dates}
@@ -16,7 +16,7 @@ This page is in progress. The programme is tentative, and details on the venue w
 Ecological systems can respond to stress gradually, nonlinearly or through abrupt shifts between
 states. Many methods now exist to detect such changes, to measure resilience and to anticipate
 transitions, but it is often unclear which of them can be applied to the data that ecologists
-actually have. ecoFAST 2027 is a tutorial and colloquium structured around the question of
+actually have. ecoFAST2027 is a tutorial and colloquium structured around the question of
 whether resilience can be quantified and abrupt shifts
 anticipated from empirical data, and what current methods can and cannot deliver.
 

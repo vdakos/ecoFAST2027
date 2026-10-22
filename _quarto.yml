@@ -3,10 +3,10 @@ project:
   output-dir: docs
 
 website:
-  title: "ecoFAST 2027"
+  title: "ecoFAST2027"
   site-url: "https://vdakos.github.io/ecoFAST2027/"
   page-footer:
-    center: "ecoFAST 2027 · Montpellier · Organised by Vasilis Dakos (ISEM, CNRS, University of Montpellier)"
+    center: "ecoFAST2027 · Montpellier · Organised by Vasilis Dakos (ISEM, CNRS, University of Montpellier)"
 
 format:
   html:
