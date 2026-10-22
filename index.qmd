@@ -1,6 +1,6 @@
 ---
 title: "Empirically quantifying resilience and nonlinear changes in ecological systems"
-subtitle: "ecoFAST 2027"
+subtitle: "ecoFAST 2027: Tutorial and Colloquium"
 ---
 
 [22–23 March 2027 · Montpellier, France · Free of charge]{.meeting-dates}
