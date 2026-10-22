@@ -1,0 +1,12 @@
+/* ecoFAST 2027 site */
+
+/* the short name under the title */
+.quarto-title .subtitle { font-size: 1.9rem; font-weight: 600; }
+
+/* dates line above the banner */
+.meeting-dates {
+  display: block;
+  font-size: 1.35rem;
+  font-weight: 600;
+  margin: 0.5rem 0 1rem 0;
+}
